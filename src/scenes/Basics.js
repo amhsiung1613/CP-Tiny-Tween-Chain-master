@@ -101,6 +101,7 @@ class Basics extends Phaser.Scene {
         this.input.on('pointerdown', ()=> {
             verygoodpear.setPosition (64, 64)
             verygoodpear.setAngle(0)
+            verygoodpear.setScale(1)
             peartweenchain.restart()
         })
 
