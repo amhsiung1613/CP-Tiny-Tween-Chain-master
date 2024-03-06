@@ -1,6 +1,6 @@
 // Code Practice: Tiny Tween Chain
-// Name:
-// Date:
+// Name:Amber Hsiung
+// Date:3/6/2024
 
 // CODE ARMOR
 'use strict'
